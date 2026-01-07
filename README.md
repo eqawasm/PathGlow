@@ -1,2 +1,2 @@
 # PathGlow
-data-flow analysis for detecting path traversal
+Resources for  "SSE-Driven and Optimized Data Flow Analysis for Detecting Path Traversal"  (ESORICS 2026)
